@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#3F51B5</color>
+    <color name="primary_dark">#303F9F</color>
+    <color name="accent">#F50056</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="bkg_card">#8C9EFF</color>
+    <color name="white">#ffffff</color>
+    <color name="doc_bg">#d3d6db</color>
+    <color name="doc_item_bg">#ffffff</color>
+    <color name="doc_item_border">#c2c3c8</color>
+    <color name="link">#0a80d1</color>
+    <color name="timestamp">#a0a3a7</color>
+    <!--for material-->
+    <color name="primary_m">#CDDC39</color>
+    <color name="primary_dark_m">#AFB42B</color>
+    <color name="primary_light">#F0F4C3</color>
+    <color name="accent_m">#03A9F4</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#212121</color>
+    <color name="divider">#B6B6B6</color>
+
+    <color name="colorPrimary">#71BB2E</color>
+    <color name="colorPrimaryDark">#71BB2E</color>
+    <color name="colorAccent">#FF4081</color>
+</resources>
