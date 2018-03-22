@@ -15,7 +15,7 @@ script:              # 执行:下面的命令
   - ./gradlew assembleRelease  
 before_deploy:       # 部署之前
   # 使用 mv 命令进行修改apk文件的名字
-  - mv app/build/outputs/apk/app-release.apk app/build/outputs/apk/build.apk  
+  # - mv app/build/outputs/apk/app-release.apk app/build/outputs/apk/build.apk  
  deploy:              # 部署
   provider: releases # 部署到GitHub Release，除此之外，Travis CI还支持发布到fir.im、AWS、Google App Engine等
   api_key:  # 填写GitHub的token （Settings -> Personal access tokens -> Generate new token）
